@@ -2,7 +2,7 @@
 "Balin","Leuciscus aspius","fenekeszeg, kapókeszeg, őnhal, ragadozó őn, villámkeszeg","https://hu.wikipedia.org/wiki/Balin_(halfaj)","balin.jpg");
 "Bodorka","Rutilus rutilus","búzaszemű keszeg","https://hu.wikipedia.org/wiki/Bodorka","bodorka.jpg");
 "Dévérkeszeg", "Abramis brama", null, "https://hu.wikipedia.org/wiki/Dévérkeszeg","deverkeszeg.jpg");
-"Kerikakeszeg","Blicca bjoerkna", null, "https://hu.wikipedia.org/wiki/Karikakeszeg","karikakeszeg.jpg");
+"Karikakeszeg","Blicca bjoerkna", null, "https://hu.wikipedia.org/wiki/Karikakeszeg","karikakeszeg.jpg");
 "Ponty","Cyprinus carpio","aranyhasú, babajkó, dunaponty, feketeponty, karcsúponty, nádiponty, nyurgaponty, pathal, potyka (= „pontyka”), nyurgaponty, pozsár, sodrófaponty","https://hu.wikipedia.org/wiki/Ponty","ponty.jpg");
 "Fogassüllő","Sander lucioperca","másfél kilósnál nagyobb példányok népies neve fogas, az ennél kisebbeké süllő","https://hu.wikipedia.org/wiki/Fogassüllő","fogassullo.jpg");
 "Csuka","Esox lucius","csukesz, közcsuka, mátyáscsuka (a Mátyás napján fogott példány), bicska, bugylicsuka","https://hu.wikipedia.org/wiki/Csuka","csuka.jpg");
